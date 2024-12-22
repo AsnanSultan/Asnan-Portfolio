@@ -24,7 +24,7 @@ export function Contact() {
             <span>Phone</span>
           </a>
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/AsnanSultan"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center gap-2 p-4 rounded-lg hover:bg-gray-800/50 transition-all hover:scale-105 animate-fade-in-up"
@@ -34,7 +34,7 @@ export function Contact() {
             <span>GitHub</span>
           </a>
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/asnan-sultan/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center gap-2 p-4 rounded-lg hover:bg-gray-800/50 transition-all hover:scale-105 animate-fade-in-up"

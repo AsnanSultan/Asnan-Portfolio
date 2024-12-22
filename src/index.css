@@ -130,3 +130,8 @@ html {
 ::-webkit-scrollbar-thumb:hover {
   background: #2563eb;
 }
+
+img, video {
+  max-width: 150%;
+  height: auto;
+}

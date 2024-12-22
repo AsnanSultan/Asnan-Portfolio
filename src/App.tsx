@@ -1,4 +1,5 @@
 import React from 'react';
+import { MenuBar } from './components/Menu';
 import { Hero } from './components/Hero';
 import { Skills } from './components/Skills';
 import { Projects } from './components/Projects';
@@ -9,6 +10,7 @@ import { Background } from './components/Background';
 function App() {
   return (
     <div className="min-h-screen text-gray-100">
+       <MenuBar />
       <Background />
       <Hero />
       <Skills />

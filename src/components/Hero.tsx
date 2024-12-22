@@ -3,7 +3,7 @@ import { Mail, Phone, MapPin, Calendar } from 'lucide-react';
 
 export function Hero() {
   return (
-    <div className="min-h-screen flex items-center justify-center animate-fade-in">
+    <div id="hero" className="min-h-screen flex items-center justify-center animate-fade-in">
       <div className="container mx-auto px-4 py-16">
         <div className="flex flex-col md:flex-row items-center justify-between gap-12">
           <div className="md:w-1/2 space-y-6">
@@ -49,7 +49,8 @@ export function Hero() {
             <div className="relative w-64 h-64 mx-auto animate-float">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full animate-pulse"></div>
               <img
-                src="https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?auto=format&fit=crop&q=80&w=800"
+                // src="https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?auto=format&fit=crop&q=80&w=800"
+                src="https://avatars.githubusercontent.com/u/61201319?v=4"
                 alt="Muhammad Asnan Sultan"
                 className="absolute inset-2 object-cover rounded-full ring-4 ring-blue-500/50"
               />
