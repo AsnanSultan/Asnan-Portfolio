@@ -29,10 +29,10 @@ export function Hero() {
                   +92 (309) 6417530
                 </a>
               </div>
-              <div className="flex items-center gap-2">
+              {/* <div className="flex items-center gap-2">
                 <Calendar className="w-5 h-5 text-blue-500" />
                 <span>July 27, 2001</span>
-              </div>
+              </div> */}
             </div>
 
             <div className="flex gap-4 animate-fade-in-up" style={{ animationDelay: '0.4s' }}>
