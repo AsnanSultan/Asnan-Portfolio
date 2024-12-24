@@ -6,7 +6,7 @@ const experiences = [
     company: "LetZyno LLC",
     position: "Flutter Developer",
     period: "March 2024 - Present",
-    projects: ["Barre Studio", "Deen Minder"]
+    projects: ["Baby Tracker","Barre Studio","Host Food App", "Deen Minder"]
   },
   {
     company: "DigiXValley LLC",
