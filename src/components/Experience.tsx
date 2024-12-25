@@ -12,7 +12,7 @@ const experiences = [
     company: "DigiXValley LLC",
     position: "Flutter Developer",
     period: "August 2022 - February 2024",
-    projects: ["Foodage", "TakeHair", "Pickleball Manager"]
+    projects: ["Foodage", "TakeHair",, "Pickleball Manager","Bliksy"]
   }
 ];
 
